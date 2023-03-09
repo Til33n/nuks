@@ -1,0 +1,7 @@
+# projekt NUKS - izmenjava podatkov 
+
+index.html front user interface page (will be modified)
+SQL base "database_sql_2.db" containing user data, like id, number of upload, the time it was uploaded, so server knows when the file expires,
+  location, where teh file was soted on the server, its codepending generated URL - where the file will be available for downloading and typeoff file (webm,
+  pdf, ...).
+  
